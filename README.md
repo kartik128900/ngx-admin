@@ -1,0 +1,1 @@
+ngx-admin is a popular open-source Angular admin dashboard template built with Nebular. It features a responsive design, customizable themes (3 included), 40+ Angular components, 60+ usage examples, and built-in authentication. Compatible with Node.js v14.14+, it’s ideal for creating modern, robust web applications with optional integration for Angular Material.
